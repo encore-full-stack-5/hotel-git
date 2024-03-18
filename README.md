@@ -1,6 +1,6 @@
 # hotel-git
 
-이진석
+서연
 
 ```
 hi hello
