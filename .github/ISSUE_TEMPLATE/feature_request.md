@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[Feature] 할일 만들기"
+title: "[Feature] 할 일 만들기"
 labels: feature
 assignees: ''
 
@@ -11,6 +11,6 @@ assignees: ''
 할 일을 입력해주세요.
 
 **TODO**
-- [ ] 할일 1
-- [ ] 할일 2
-- [ ] 할일 3
+- [ ] 할 일 1
+- [ ] 할 일 2
+- [ ] 할 일 3
